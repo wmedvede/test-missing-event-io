@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
   <artifactId>test-missing-event-io</artifactId>
-  <version>30.0.0-SNAPSHOT</version>
+  <version>A-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>test-missing-event-io</name>
   <description></description>
